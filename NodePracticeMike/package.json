@@ -1,0 +1,9 @@
+{
+  "name": "NodePracticeMike",
+  "version": "0.0.1",
+  "author": "Mike Santry",
+  "dependencies": {
+    "moment": "^2.22.2",
+    "through2-map": "^3.0.0"
+  }
+}
